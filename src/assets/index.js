@@ -8,6 +8,7 @@ import react from "./react.png";
 import scene from "./scene.png";
 import mockup from "./mockup.png";
 
+/* eslint import/no-anonymous-default-export: [2, {"allowObject": true}] */
 export default {
   homeHero,
   homeCards,
