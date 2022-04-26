@@ -15,7 +15,7 @@ const App = () => {
       />
       <SectionWrapper 
         title="Smart User Interface Marketplace"
-        description="Experience a buttery UI of ProNef NFT Marketplace. Smooth constant colors of a fluent UI design."
+        description="Experience spectacular UI of ProNef NFT Marketplace. Smooth constant colors of a fluent UI design."
         mockupImg={assets.homeCards}
         reverse
       />
